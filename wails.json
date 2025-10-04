@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "KistuTunnel",
+  "outputfilename": "KistuTunnel",
+  "frontend:dir": "frontend",
+  "author": {
+    "name": "TobiGinko",
+    "email": "TobishiroGinko@outlook.com"
+  }
+} 
